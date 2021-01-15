@@ -1,0 +1,7 @@
+C:\Users\LM\source\repos\Number guesser\Number guesser\bin\Debug\Number guesser.exe.config
+C:\Users\LM\source\repos\Number guesser\Number guesser\bin\Debug\Number guesser.exe
+C:\Users\LM\source\repos\Number guesser\Number guesser\bin\Debug\Number guesser.pdb
+C:\Users\LM\source\repos\Number guesser\Number guesser\obj\Debug\Number guesser.csprojAssemblyReference.cache
+C:\Users\LM\source\repos\Number guesser\Number guesser\obj\Debug\Number guesser.csproj.CoreCompileInputs.cache
+C:\Users\LM\source\repos\Number guesser\Number guesser\obj\Debug\Number guesser.exe
+C:\Users\LM\source\repos\Number guesser\Number guesser\obj\Debug\Number guesser.pdb
